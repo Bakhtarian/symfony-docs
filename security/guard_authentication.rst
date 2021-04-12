@@ -248,7 +248,6 @@ Finally, configure your ``firewalls`` key in ``security.yaml`` to use this authe
                 # ...
 
                 main:
-                    anonymous: true
                     lazy: true
                     logout: ~
 
